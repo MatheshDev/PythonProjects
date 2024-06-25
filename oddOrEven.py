@@ -5,6 +5,4 @@ def checkNum(num):
         print(f"{num} is Odd")
 
 a = int(input("Enter a number : "))
-checkNum(a) 
-
-
+checkNum(a)
