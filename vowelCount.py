@@ -16,3 +16,14 @@ def countVowel(strList):
 print(countVowel(strList))
 
 #AnotherMethod
+
+def count_vowel(nstring):
+    vowels = "aeiouAEIOU"
+    count = 0
+    for strs in nstring:
+        if strs in vowels:
+            count += 1
+    return count
+
+nstring = "aeiou"
+print(count_vowel(nstring))
