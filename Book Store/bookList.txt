@@ -1,0 +1,3 @@
+Chubby,Sabariish,123
+Maddy,Mathesh,1200
+Hello,Maddy,100
